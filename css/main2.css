@@ -1,0 +1,40 @@
+/* ------- General ---------- */
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.clr-green{
+    color: #54A887;
+}
+.clr-pink{
+    color: #D34BB1;
+}
+.clr-syn{
+    color: #5C9ED6;
+}
+/* ------- End General ---------- */
+/* ------- Header ---------- */
+.header{
+    background-image: url(../img/simple-house-01.jpg);
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center center;
+}
+.header .container{
+    position: relative ;
+    top: 37vh ;
+    
+    
+}
+/* ------- End Header ---------- */
+/*------------ Clock --------------- */
+.clock{
+    background-image: url(../img/about-05.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+/*------------ End Clock --------------- */

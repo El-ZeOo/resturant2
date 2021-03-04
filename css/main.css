@@ -1,0 +1,34 @@
+/* ------- General ---------- */
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.clr-green{
+    color: #54A887;
+}
+.clr-syn{
+    color: #5C9ED6;
+}
+/* ------- End General ---------- */
+/* ------- Header ---------- */
+.header{
+    background-image: url(../img/simple-house-01.jpg);
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center center;
+}
+.header .container{
+    position: relative ;
+    top: 37vh ;
+    
+    
+}
+/* ------- End Header ---------- */
+/* ------- paragraph ---------- */
+.contant .row h5{
+    color: #1A6895;
+}
+/* ------- End paragraph ---------- */
+
